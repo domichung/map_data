@@ -1,0 +1,56 @@
+[
+  {
+    "latitude": 24.181281,
+    "longitude": 120.648568,
+    "original_filename": "./pic/taiwan_center_satellite_0_0.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_0_0.png"
+  },
+  {
+    "latitude": 24.18057845375689,
+    "longitude": 120.648568,
+    "original_filename": "./pic/taiwan_center_satellite_0_1.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_0_1.png"
+  },
+  {
+    "latitude": 24.179875907513786,
+    "longitude": 120.648568,
+    "original_filename": "./pic/taiwan_center_satellite_0_2.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_0_2.png"
+  },
+  {
+    "latitude": 24.181281,
+    "longitude": 120.64942369034833,
+    "original_filename": "./pic/taiwan_center_satellite_1_0.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_1_0.png"
+  },
+  {
+    "latitude": 24.18057845375689,
+    "longitude": 120.64942369034833,
+    "original_filename": "./pic/taiwan_center_satellite_1_1.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_1_1.png"
+  },
+  {
+    "latitude": 24.179875907513786,
+    "longitude": 120.64942369034833,
+    "original_filename": "./pic/taiwan_center_satellite_1_2.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_1_2.png"
+  },
+  {
+    "latitude": 24.181281,
+    "longitude": 120.65027938069667,
+    "original_filename": "./pic/taiwan_center_satellite_2_0.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_2_0.png"
+  },
+  {
+    "latitude": 24.18057845375689,
+    "longitude": 120.65027938069667,
+    "original_filename": "./pic/taiwan_center_satellite_2_1.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_2_1.png"
+  },
+  {
+    "latitude": 24.179875907513786,
+    "longitude": 120.65027938069667,
+    "original_filename": "./pic/taiwan_center_satellite_2_2.png",
+    "cropped_filename": "./pic/taiwan_center_satellite_cropped_2_2.png"
+  }
+]
