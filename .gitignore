@@ -1,0 +1,6 @@
+data/images/
+data/metadata/
+data generater/satellite image/src/api/env.py
+data generater/satellite image/src/__pycache__
+data generater/satellite image/src/api/__pycache__
+data generater/satellite image/src/utils/__pycache__
